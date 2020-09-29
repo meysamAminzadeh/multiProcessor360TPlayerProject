@@ -1,0 +1,112 @@
+Aug 02, 2020 11:43:00 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'hello' to player2
+Aug 02, 2020 11:43:00 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 1) message 'hello' from player2
+Aug 02, 2020 11:43:01 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'how are you' to player2
+Aug 02, 2020 11:43:01 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 2) message 'how are you' from player2
+Aug 02, 2020 11:43:02 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'I am java developer ' to player2
+Aug 02, 2020 11:43:02 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 3) message 'I am java developer ' from player2
+Aug 02, 2020 11:43:03 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'I am in Dortmund right now' to player2
+Aug 02, 2020 11:43:03 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 4) message 'I am in Dortmund right now' from player2
+Aug 02, 2020 11:43:04 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'I am looking for a job in Germany ' to player2
+Aug 02, 2020 11:43:04 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 5) message 'I am looking for a job in Germany ' from player2
+Aug 02, 2020 11:43:05 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'I like to learn new thing' to player2
+Aug 02, 2020 11:43:05 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 6) message 'I like to learn new thing' from player2
+Aug 02, 2020 11:43:06 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'this is my test for 360T co' to player2
+Aug 02, 2020 11:43:06 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 7) message 'this is my test for 360T co' from player2
+Aug 02, 2020 11:43:07 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'It is no matter if I start as beginner' to player2
+Aug 02, 2020 11:43:07 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 8) message 'It is no matter if I start as beginner' from player2
+Aug 02, 2020 11:43:08 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'I have a job seeker visa' to player2
+Aug 02, 2020 11:43:08 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 9) message 'I have a job seeker visa' from player2
+Aug 02, 2020 11:43:09 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'bye ' to player2
+Aug 02, 2020 11:43:09 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 10) message 'bye ' from player2
+Aug 02, 2020 11:53:57 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'this is test message' to player2
+Aug 02, 2020 11:53:57 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 1) message 'this is test message' from player2
+Aug 02, 2020 11:53:57 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'hello' to player2
+Aug 02, 2020 11:53:57 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 1) message 'hello' from player2
+Aug 02, 2020 11:54:16 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'this is test message' to player2
+Aug 02, 2020 11:54:16 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 1) message 'this is test message' from player2
+Aug 02, 2020 11:54:16 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'hello' to player2
+Aug 02, 2020 11:54:16 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 1) message 'hello' from player2
+Aug 02, 2020 11:54:22 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'this is test message' to player2
+Aug 02, 2020 11:54:22 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 1) message 'this is test message' from player2
+Aug 02, 2020 11:54:22 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'hello' to player2
+Aug 02, 2020 11:54:22 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 1) message 'hello' from player2
+Aug 02, 2020 11:54:28 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'this is test message' to player2
+Aug 02, 2020 11:54:28 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 1) message 'this is test message' from player2
+Aug 02, 2020 11:54:28 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'hello' to player2
+Aug 02, 2020 11:54:28 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 1) message 'hello' from player2
+Aug 02, 2020 11:54:50 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'hello' to player2
+Aug 02, 2020 11:54:50 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 1) message 'hello' from player2
+Aug 02, 2020 11:54:51 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'how are you' to player2
+Aug 02, 2020 11:54:51 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 2) message 'how are you' from player2
+Aug 02, 2020 11:54:52 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'I am java developer ' to player2
+Aug 02, 2020 11:54:52 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 3) message 'I am java developer ' from player2
+Aug 02, 2020 11:54:53 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'I am in Dortmund right now' to player2
+Aug 02, 2020 11:54:53 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 4) message 'I am in Dortmund right now' from player2
+Aug 02, 2020 11:54:54 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'I am looking for a job in Germany ' to player2
+Aug 02, 2020 11:54:54 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 5) message 'I am looking for a job in Germany ' from player2
+Aug 02, 2020 11:54:55 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'I like to learn new thing' to player2
+Aug 02, 2020 11:54:55 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 6) message 'I like to learn new thing' from player2
+Aug 02, 2020 11:54:56 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'this is my test for 360T co' to player2
+Aug 02, 2020 11:54:56 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 7) message 'this is my test for 360T co' from player2
+Aug 02, 2020 11:54:57 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'It is no matter if I start as beginner' to player2
+Aug 02, 2020 11:54:57 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 8) message 'It is no matter if I start as beginner' from player2
+Aug 02, 2020 11:54:58 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'I have a job seeker visa' to player2
+Aug 02, 2020 11:54:58 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 9) message 'I have a job seeker visa' from player2
+Aug 02, 2020 11:54:59 PM comunicationOutput.OutPut write
+INFO: initiator sent a message 'bye ' to player2
+Aug 02, 2020 11:54:59 PM comunicationOutput.OutPut write
+INFO: initiator received a (counter: 10) message 'bye ' from player2

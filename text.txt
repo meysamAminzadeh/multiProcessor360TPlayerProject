@@ -1,0 +1,12 @@
+hello
+how are you
+I am java developer 
+I am in Dortmund right now
+I am looking for a job in Germany 
+I like to learn new thing
+this is my test for 360T co
+It is no matter if I start as beginner
+I have a job seeker visa
+bye 
+this is end of file
+
